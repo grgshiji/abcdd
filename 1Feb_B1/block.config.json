@@ -1,0 +1,20 @@
+{
+  "blockId": "zpkoCcOS-vqMm9JA35oW3",
+  "name": "1Feb_B1",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/abcdd.git",
+    "ssh": "git@github.com:grgshiji/abcdd.git",
+    "branch": "block_1Feb_B1"
+  },
+  "parentBlockIDs": [
+    "W12tOwrQL8KVM2OHO-G_T"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
