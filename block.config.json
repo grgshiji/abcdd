@@ -3,8 +3,8 @@
   "type": "package",
   "blockId": "W12tOwrQL8KVM2OHO-G_T",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/abcdd.git",
+    "ssh": "git@github.com:grgshiji/abcdd.git",
     "branch": "block_1Feb"
   },
   "parentBlockIDs": [],
