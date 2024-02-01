@@ -1,0 +1,16 @@
+{
+  "name": "1Feb",
+  "type": "package",
+  "blockId": "W12tOwrQL8KVM2OHO-G_T",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_1Feb"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
